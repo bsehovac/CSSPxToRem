@@ -1,0 +1,4 @@
+[
+  { "caption": "CSS: convert selected values from pixels to rems", "command": "px_to_rem" },
+  { "caption": "CSS: convert selected values from rems to pixels", "command": "rem_to_px" }
+]

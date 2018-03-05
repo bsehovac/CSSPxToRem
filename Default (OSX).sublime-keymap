@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+r"], "command": "px_to_rem" },
+  { "keys": ["super+shift+r"], "command": "rem_to_px" }
+]

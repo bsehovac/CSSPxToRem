@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tools",
+    "caption": "Tools",
+    "children":
+    [
+      {
+        "id": "css_px_to_rem_py",
+        "caption": "Convert Pixels to Rems",
+        "command": "px_to_rem"
+      },
+      {
+        "id": "css_rem_to_px_py",
+        "caption": "Convert Rems to Pixels",
+        "command": "rem_to_px"
+      }
+    ]
+  }
+]
